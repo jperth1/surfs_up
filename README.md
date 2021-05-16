@@ -18,9 +18,7 @@ Three significant results were identified that shed light on the year-round sust
 
 3. The statistical summaries demonstrate that the minimum temperatures for June and December more spread out. The minimum temperature in June is 64 F° whereas the minimum temperature in December is 56 F°, an 8 F° difference. 
 
-![june_temp_df](/Resources/june_temp_df.png)
-
-![december_temp_df](/Resources/december_temp_df.png)
+![june_temp_df](/Resources/june_temp_df.png)    ![december_temp_df](/Resources/december_temp_df.png)
 
 
 Overall, the statistical summaries for the temperatures during the month of June and December show temperatures are mostly similar, where December temperatures are slightly cooler by 2-4 F°. This is advantages as it indicates that, for the most part, an ice cream surf shop is sustainable year-round. However, due to the low minimum temperature observed in December and the standard deviation at 3.7 it should be noted that December will have cooler temperatures throughout the month that will affect buyers’ spending, and the business will likely see lower profits compared to those in peak season months. 
@@ -36,7 +34,4 @@ To supplement the statistical analysis on the temperatures during June and Decem
 Ultimately, although the month of December shows to have more rain compared to the month of June, the statistics show December does not have a significantly more rain. This is positive as it indicates that the from a precipitation stand point, the ice cream surf shop business is sustainable year-round.
 
 
-![june_prcp_df](/Resources/june_prcp_df.png)
-
-![ december_prcp_df](/Resources/december_prcp_df.png)
-![image](https://user-images.githubusercontent.com/80020390/118411367-2b091d80-b662-11eb-8d95-92db61cc9e5b.png)
+![june_prcp_df](/Resources/june_prcp_df.png).   ![ december_prcp_df](/Resources/december_prcp_df.png)
