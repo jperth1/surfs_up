@@ -5,8 +5,8 @@
 This analysis evaluates the weather conditions in Oahu, Hawaii in efforts to supplement a business plan for opening an ice cream surf shop on the island of Oahu. Specifically, the analysis assesses temperature and precipitation during the months of June and December to determine if the ice cream surf shop can be a sustainable business year-round. Using Python, Pandas functions and methods, and SQLAlchemy this analysis retrieves weather data from the Hawaii.sqlite database and presents a statistical analysis on that data.
 
 # Resources
-Data Source: Hawaii.sqlite
-Software: Python 3.8.5, Jupyter Notebook 6.1.4, SQLAlchemy 1.3.2, SQLite 3.33.0
+- Data Source: Hawaii.sqlite
+- Software: Python 3.8.5, Jupyter Notebook 6.1.4, SQLAlchemy 1.3.2, SQLite 3.33.0
 
 # Results
 
